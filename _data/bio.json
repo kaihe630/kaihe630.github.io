@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kai He",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://kaihe630.github.io/images/屏幕快照 2022-01-19 下午1.31.57.png",
+    "email": "hekai@hawaii.edu",
+    "phone": "808-726-8151",
+    "website": "https://kaihe630.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,43 +17,28 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kaihe630",
+        "url": "http://github.com/kaihe630"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kaihe630",
+        "url": "http://linkedin.com/in/kaihe630"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "software engineering",
+      "keywords": []
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
+      "name": "gaming",
+      "keywords": []
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "name": "fishing",
+      "keywords": []
     }
   ],
   "skills": [
