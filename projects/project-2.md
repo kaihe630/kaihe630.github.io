@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/pk.jpeg
 title: Pokemon catcher
-permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-20
 labels:
