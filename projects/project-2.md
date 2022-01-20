@@ -14,7 +14,7 @@ labels:
 summary: A projec that relates everything we had learn in ICS211. A pokemon catcher game. 
 ---
 
-<img class="ui medium left floated image" src="../images/ppk.jpeg">
+<img class="ui medium left floated image" src="../images/ppk.jpeg">{:height="50%" width="50%"}
 
 ## UNKNOWN RELATIONSHIP WITH POKEMON
 The whole ICS central theme I had gone through during KCC is pokemon. To be honest, I don't know why. Every subject or assignment we go through, my professor can link it with the pokemon game. Whether random function for the levels or pokemon your catches, the hp, mp, even the evolution of the pokemon. Every assignment we go through builds up to our final project. In different parts of the project, we can work with different teammates. We could share our code with different teammates to improve, and it's fun to see other ideas for the project. 
