@@ -13,7 +13,7 @@ labels:
 summary: A game that is similar to Flappy bird, but a little different with the rules and the main charater is a toilet paper.
 ---
 
-  <img class="ui image" src="../tp.jpeg">
+<img class="ui medium left floated image" src="../images/tp.jpeg">
 
 The name of flappy, does it remind your guys of something? The game of flappy bird. The game has been super famous for a couple of years and has only been popular for a couple of months. For an unknown reason, the game disappears in any app store. During the time of popularities, I was a senior at Rosevelt High, and I was wondering what to do for my final project for my STEM class. The disappears of the game in the app store give me an idea of why not create a game similar to it, but a little different. 
 
