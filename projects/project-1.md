@@ -21,7 +21,7 @@ The name of flappy, does it remind your guys of something? The game of flappy bi
 ## Rules.
 The flappy toilet paper was created. The basic rule of the game is similar to the flappy bird, but additional rules were added. There will be random tiny water droplets that will drop toward you, and once they hit you, the paper is wet, you lose. The water droplets appear only on the front and top. 
 
-<img class="ui medium left floated image" src="../images/ll.jpeg">
+<img class="ui medium left floated image" src="../images/ll.jpeg" width="50%" height="50%">
 
 It is not that easy to do the project. You had to cuts the image to the correct sizes and set the right width and height. The random function is required for the water droplets and the blocks. Also, background music and the sound effects of tapping. Also, the losing screen effects, etc...
 
