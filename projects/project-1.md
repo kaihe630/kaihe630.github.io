@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/fb.jpg
+title: Flappy Toilet paper
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-04-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Game
+  - HTML
+  - Javascript 
+summary: A game that is similar to Flappy bird, but a little different with the rules and the main charater is a toilet paper.
 ---
 
 <div class="ui small rounded images">
