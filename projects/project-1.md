@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/fb.jpg
 title: Flappy Toilet paper
-permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-01
 labels:
