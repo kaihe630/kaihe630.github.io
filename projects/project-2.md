@@ -23,7 +23,8 @@ The whole ICS central theme I had gone through during KCC is pokemon. To be hone
 
 The final project is developing the pokemon game, but only the catch screen. Like the pokemon go. Although we had learned how to use Java for the battles for the pokemon, we decided to do just the catching screen. We can catch different levels of pokemon and its different evolutions. Also, random hp and mp when it caught and, most importantly, randomizes chances of catching it. We designed our catching screen and different images of the pokemon. 
 
-Sorry, the assignment is under the main tag of my professor, and it is set to be private. So, no link. I am sorry. 
+## I am Sorry!
+The assignment is under the main tag of my professor, and it is set to be private. So, no link. I am sorry. 
 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
