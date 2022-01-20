@@ -12,7 +12,7 @@ labels:
 summary: A game that is similar to Flappy bird, but a little different with the rules and the main charater is a toilet paper.
 ---
 
-<img class="ui medium left floated image" src="../images/tp.jpeg">
+<img class="ui medium left floated image" src="../images/nt.jpeg">
 
 ## Background of the Game.
 
