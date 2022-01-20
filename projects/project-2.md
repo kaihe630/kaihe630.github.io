@@ -32,5 +32,3 @@ I had learned a lot from this assignment. It was fun and interesting to combine 
 
 The assignment is under the main tag of my professor, and it is set to be private. So, no link. I am sorry. 
 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
