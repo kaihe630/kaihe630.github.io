@@ -12,6 +12,7 @@ summary: A online restaurant ordering page.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/of.png">
+
 ## Dream restaurant.
 This project is mainly about how to use local and global variables. This is the first main project I had finished during high school—an online ordering page for a restaurant. You can order the food you like, which sums up after you check out. There are different pages for different food, saving up the data.
 
