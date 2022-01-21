@@ -1,61 +1,25 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/p.png
+title: Your personal restaurant
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-04-01
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - HTML
+  - Ordering
+summary: A online restaurant ordering page.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/of.png">
+## Dream restaurant.
+This project is mainly about how to use local and global variables. This is the first main project I had finished during high school—an online ordering page for a restaurant. You can order the food you like, which sums up after you check out. There are different pages for different food, saving up the data.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+## Personal.
+It is a personal project, so I had to finish it all by myself. It is a fun project, and I regret staying at lunch to finish it, especially when I was hungry and scanning through the image of delicious foods online to put in my menus. We had to learn how to use local and global variables and catch any problems that the professor had found. I didn't solve the problem of if the user input a negative number for the food's amount ordered. A negative balance appears during the website. RIP
 
-To give you a flavor of the game, here is an excerpt from one run:
+## Ready?
+Writing code for business is not easy, and you need to be 100% bug solve for it. I didn't catch the error of the user inputting a negative number, and if that happens in real life, everyone can order free food! 
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+## Sorry!!!
+The code is in my old flash drive and it is lost. NO LINK...
