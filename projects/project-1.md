@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/"fpp.png"
+image: images/fpp.png
 title: Flappy Toilet paper
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-01
