@@ -26,7 +26,7 @@ The flappy toilet paper was created. The basic rule of the game is similar to th
 It is not that easy to do the project. You had to cuts the image to the correct sizes and set the right width and height. The random function is required for the water droplets and the blocks. Also, background music and the sound effects of tapping. Also, the losing screen effects, etc...
 
 ## Learn.
-It is a fun project to do. Although it was a personal project, we could play other classmates' games, and it was enjoyable. Also, it is fantastic to see how others develop its game and learn about the ideas they had. 
+It is a fun project to do. Although it was a personal project, we could play other classmates' games, and it was enjoyable. Also, it is fantastic to see how others develop its game and learn about the ideas they had. By the way, I can't believe I learned some photoshop while finishing project, reason why was that we need to shown images to its sizes that fully display without showing any background. 
 
 ## Sorry!!!!
 Sorry, there is no link for this project. It was on my old GitHub acc linked with my high school Gmail. 
