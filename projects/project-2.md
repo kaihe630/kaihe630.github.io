@@ -25,7 +25,7 @@ The final project is developing the pokemon game, but only the catch screen. Lik
 
 ## Learn.
 
-I had learned a lot from this assignment. It was fun and interesting to combine everything we learned to form one project. Also, most importantly, my teammates are very active during the project. 
+I had learned a lot from this assignment. It was fun and interesting to combine everything we learned to form one project. Also, most importantly, my teammates are very active during the project. Also, organized all you files and project! You never know one day in the future, you will needed! 
 
 ## I am Sorry!
 
