@@ -38,14 +38,13 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Languages",
+      "level": "Low",
       "keywords": [
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
+        "Javascript"
         "Common Lisp"
       ]
     },
@@ -54,10 +53,9 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "jGRASP",
+        "Git/Kraken"
       ]
     }
   ],
@@ -68,8 +66,14 @@
       "studyType": "B.S.",
       "startDate": "2019-12-13",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.5",
+      "courses": ["ICS 111", 
+                  "ICS 141", 
+                  "ICS 211",
+                  "ICS 212", 
+                  "ICS 241",
+                  "ICS 311",
+                  "ICS 321"
       ]
     }
   ],
@@ -83,8 +87,14 @@
       "endDate": "Present",
       "summary": "NON-program realties job",
       "highlights": [
-        "Communicate with different people"
+        "Communicate with different people",
+        "Good pay"
       ]
+    }
+  ],
+   "Awards": [
+    {
+      "Dean List"
     }
   ],
   "references": [
