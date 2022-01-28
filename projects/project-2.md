@@ -10,7 +10,7 @@ labels:
   - Game
   - Java
   - GitHub
-summary: A projec that relates everything we had learn in ICS211. A pokemon catcher game. 
+summary: A projecj that relates everything we had learn in ICS211. A pokemon catcher game. 
 ---
 
 <img class="ui medium left floated image" src="../images/ppk.jpeg" width="50%" height="50%" >
