@@ -14,10 +14,13 @@ summary: A web application that will provide a portal for students in search of 
 ---
 
 <img class="ui medium left floated image" src="../images/LandP.png" width="50%" height="50%">
-<hr />
+
 ## Overview.
 
 Walking with Pele is a web application that will provide a portal for students searching for spots for fun, studying, and relaxing in Oahu. The applications offer maps and images of the locations for view. It also includes three top most popular spots and a random spot page for students who had difficulty making a decision. This web application will enable students to find unique places on Oahu while also sharing their own for others to see. The application will build upon itself to provide amazing spots from the past to the present. 
+
+<img class="ui medium left floated image" src="../images/LandP.png" width="50%" height="50%">
+------------------------------------------------------------------------------------------------
 
 ## Roles & Thoughts 
 
