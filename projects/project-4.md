@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/p2.jpg
+image: images/p4.png
 title: Walking with Pele
 # All dates must be YYYY-MM-DD format!
 date: 2022-04-08
