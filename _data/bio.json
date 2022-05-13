@@ -71,16 +71,13 @@
       "startDate": "2019-12-13",
       "endDate": "Present",
       "gpa": "3.5",
-      "courses": ["1. ICS 111 && ICS 141 : 
-                  - Basic Level of programming and Algorithm ", 
+      "courses": ["1. ICS 111 && ICS 141 : - Basic Level of programming and Algorithm ", 
                   "2. ICS 211 : Record arrival timed at the incident of all overhead personnel and equipment",
-                  "ICS 212 : - Basic level of C and C++", 
-                  "ICS 241 : - Discrete Mathematics for Computer Science II",
-                  "ICS 311 : - Design and correctness of algorithms, including divide-and-conquer, greedy and dynamic
-programming methods. Complexity analyses using recurrence relations, probabilistic methods, and NP-completeness. Applications to order statistics, disjoint sets, B-trees and balanced trees, graphs, network flows, and string matching.",
-                  "ICS 321 : - Data storage",
-                  "ICS 314 : - Problem analysis and design, team-oriented development, quality assurance, configuration
-management, project planning."
+                  "3. ICS 212 : - Basic level of C and C++", 
+                  "4. ICS 241 : - Discrete Mathematics for Computer Science II",
+                  "5. ICS 311 : - Design and correctness of algorithms, including divide-and-conquer, greedy and dynamic programming methods. Complexity analyses using recurrence relations, probabilistic methods, and NP-completeness. Applications to order statistics, disjoint sets, B-trees and balanced trees, graphs, network flows, and string matching.",
+                  "6. ICS 321 : - Data storage",
+                  "7. ICS 314 : - Problem analysis and design, team-oriented development, quality assurance, configuration management, project planning."
       ]
     }
   ],
@@ -107,7 +104,7 @@ management, project planning."
       "summary": "IT Internship",
       "highlights": [
         "Learning website design through WordPress",
-        "Internship"
+        "WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database. Features include a plugin architecture and a template system, referred to within WordPress as Themes."
       ]
     }
   ],
