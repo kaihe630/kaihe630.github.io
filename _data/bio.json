@@ -44,17 +44,22 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "Semantic UI REACT",
+        "CSS",
+        "Meteor"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Git/GitHub",
         "jGRASP",
-        "Git/Kraken"
+        "Git/Kraken",
+        "IntelliJ IDEA",
+        "WordPress"
       ]
     }
   ],
@@ -72,7 +77,8 @@
                   "ICS 212", 
                   "ICS 241",
                   "ICS 311",
-                  "ICS 321"
+                  "ICS 321",
+                  "ICS 314"
       ]
     }
   ],
@@ -88,6 +94,18 @@
       "highlights": [
         "Communicate with different people",
         "Good pay"
+      ]
+    }
+    {
+      "company": "Department of Labor & Industrial Relations",
+      "position": "Website Design",
+      "website": "",
+      "startDate": "2022-4-01",
+      "endDate": "Present",
+      "summary": "IT Internship",
+      "highlights": [
+        "Learning website design through WordPress",
+        "Internship"
       ]
     }
   ],
