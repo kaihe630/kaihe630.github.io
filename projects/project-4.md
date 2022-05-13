@@ -13,7 +13,7 @@ labels:
 summary: A web application that will provide a portal for students in search of adventure.
 ---
 
-<img class="ui medium left floated image" src="../images/Landp.png" width="50%" height="50%">
+<img class="ui medium left floated image" src="../images/LandP.png" width="50%" height="50%">
 
 ## Overview.
 
@@ -26,11 +26,11 @@ Walking with Pele is our final project for ICS 314, and it is a group project. T
 ## My Role
 <img class="ui medium left floated image" src="../images/RandF.png" width="50%" height="50%">
 <img class="ui medium left floated image" src="../images/MapF.png" width="50%" height="50%">
-
+------------------------------------------------------------------------------------------------
 ## Overall 
 <img class="ui medium left floated image" src="../images/Top3.png" width="50%" height="50%">
 <img class="ui medium left floated image" src="../images/SpotL.png" width="50%" height="50%">
-
+------------------------------------------------------------------------------------------------
 ## Learning
 
 This project is a fantastic assignment to refresh my memory of what I had learned in Ics 314. It means a review of Semantic UI React, CSS, HTML, etc... Almost all of the stuff we had going over in Ics 314. But, I am learning some new things, like the Google Map React. My role in the project is to provide an address of the spots and their geographic locations. It also includes a location on the actual google map. To do that, I have to do some research because it is a new topic I haven't learned. Besides that, this project is the first group project I have done since the COVID happens. It is nice and much easier to meet up in person to discuss the project and fix the bug we had. A long-distance meeting is not bad, but it is missing the sense of team works. 
