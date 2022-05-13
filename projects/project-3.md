@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/od.jpeg
+image: images/p3.png
 title: Your personal restaurant
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-01
