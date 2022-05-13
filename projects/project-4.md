@@ -27,6 +27,6 @@ This project is a fantastic assignment to refresh my memory of what I had learne
 
 ## URL
 
-The URL of this web application is a link to GitHub. You could clone it to your computer and run it. https://walking-with-pele.github.io/
-Besides that URL to the GitHub, you could also visit our web application through this HTTP link. It will be expired within a year, starting from April 2022. Hurry. 
-https://walking-with-pele.xyz/#/
+The URL of this web application is a link to <a href="https://walking-with-pele.github.io/">GitHub</a>. You could clone it to your computer and run it. 
+Besides that URL to the GitHub, you could also visit our web application through this HTTP link. It will be expired within a year, starting from April 2022. <a href="https://walking-with-pele.xyz/#/">Hurry</a>
+
