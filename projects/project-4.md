@@ -13,7 +13,7 @@ labels:
 summary: A web application that will provide a portal for students in search of adventure.
 ---
 
-<img class="ui medium left floated image" src="../images/LandP.png" width="50%" height="50%">
+<img class="ui medium left floated image" src="../images/LandP.png">
 
 ## Overview.
 
