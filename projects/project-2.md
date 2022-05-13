@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pk.jpeg
+image: images/p1.jpg
 title: Pokemon catcher
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-20
