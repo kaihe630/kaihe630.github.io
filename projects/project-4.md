@@ -20,12 +20,6 @@ Walking with Pele is a web application that will provide a portal for students s
 ## Roles & Thoughts 
 
 Walking with Pele is our final project for ICS 314, and it is a group project. There are five people in the group. Each of us has a unique page or a function to implement. But the overall goal of all of us is to build a web application for students to enrich its life by visiting different unique spots on the beautiful island we live on and a break from all the school works. Especially summer is coming up. Back on track, my role in the project is to build a map and a random function. A map function includes the geographic locations on the google map. For random functions, it random a spot from a list of spots that I did the research on. Overall experience is pretty good. Except the map functions require some research on Google Maps react. The random function is covered in ICS314, so pretty simple to do. Also, I am the one who provides the default data of different spots. It's pretty chill and fun to research those data. Pictures down below is actual image of the website. 
-
-## Overall 
-<img class="ui medium left floated image" src="../images/LandP.png" width="50%" height="50%">
-<img class="ui medium left floated image" src="../images/Top3.png" width="50%" height="50%">
-<img class="ui medium left floated image" src="../images/SpotL.png" width="50%" height="50%">
-------------------------------------------------------------------------------------------------
 ## My Role
 <img class="ui medium left floated image" src="../images/RandF.png" width="50%" height="50%">
 <img class="ui medium left floated image" src="../images/MapF.png" width="50%" height="50%">
